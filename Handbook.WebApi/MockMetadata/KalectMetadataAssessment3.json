@@ -1,0 +1,30 @@
+﻿{
+  "AssessmentId": "27E985CE-10D9-4812-B617-6A8F93DE6132",
+  "AssessmentTrackingNumber": "1000003",
+  "OrganizationName": "Salad King Inc.",
+  "OrganizationAddress": "4000 King Street, Alexandria, VA",
+  "AssessmentStartDate": "10/7/2018",
+  "AssessmentEndDate": "15/9/2018",
+  "AssessmentStatus": "Not Started",
+  "AssessmentStatusCode": 1,
+  "Sections": [
+    {
+      "SectionFriendlyName": "Pullets",
+      "SectionDisplayName": "Pullets",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    },
+    {
+      "SectionFriendlyName": "RodentsFliesOtherPestControl",
+      "SectionDisplayName": "Rodents Flies Other Pest Control",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    },
+    {
+      "SectionFriendlyName": "CleaningAndDisinfectionProducts",
+      "SectionDisplayName": "Cleaning And Disinfection Products",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    }
+  ]
+}

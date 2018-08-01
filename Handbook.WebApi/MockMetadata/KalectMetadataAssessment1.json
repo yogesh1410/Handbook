@@ -1,0 +1,30 @@
+﻿{
+  "AssessmentId": "A1FED4F4-3105-4B76-94E8-3F57B74017C0",
+  "AssessmentTrackingNumber": "1000001",
+  "OrganizationName": "Fine Food Packing Inc.",
+  "OrganizationAddress": "1 Packing Street, New Orleans, LA",
+  "AssessmentStartDate": "1/7/2018",
+  "AssessmentEndDate": "31/8/2018",
+  "AssessmentStatus": "Not Started",
+  "AssessmentStatusCode": 1,
+  "Sections": [
+    {
+      "SectionFriendlyName": "Pullets",
+      "SectionDisplayName": "Pullets",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    },
+    {
+      "SectionFriendlyName": "Biosecurity",
+      "SectionDisplayName": "Biosecurity",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    },
+    {
+      "SectionFriendlyName": "RefrigerationProcedures",
+      "SectionDisplayName": "Refrigeration Procedures",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    }    
+  ]
+}

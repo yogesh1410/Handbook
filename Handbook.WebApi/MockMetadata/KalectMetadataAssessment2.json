@@ -1,0 +1,30 @@
+﻿{
+  "AssessmentId": "27E985CE-10D9-4812-B617-6A8F93DE6132",
+  "AssessmentTrackingNumber": "1000002",
+  "OrganizationName": "Pure Health LLC",
+  "OrganizationAddress": "2100 Main Street, Portland, OR",
+  "AssessmentStartDate": "15/7/2018",
+  "AssessmentEndDate": "30/9/2018",
+  "AssessmentStatus": "Not Started",
+  "AssessmentStatusCode": 1,
+  "Sections": [
+    {
+      "SectionFriendlyName": "Biosecurity",
+      "SectionDisplayName": "Biosecurity",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    },
+    {
+      "SectionFriendlyName": "RodentsFliesOtherPestControl",
+      "SectionDisplayName": "Rodents Flies Other Pest Control",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    },
+    {
+      "SectionFriendlyName": "CleaningAndDisinfectionProducts",
+      "SectionDisplayName": "Cleaning And Disinfection Products",
+      "SectionStatus": "Not Started",
+      "SectionStatusCode": 1
+    }
+  ]
+}
